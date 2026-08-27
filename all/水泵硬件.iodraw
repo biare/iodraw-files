@@ -171,7 +171,7 @@
         <mxCell id="UOOnUV--T7-roycU_YFL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOOnUV--T7-roycU_YFL-4" target="UOOnUV--T7-roycU_YFL-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UOOnUV--T7-roycU_YFL-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UOOnUV--T7-roycU_YFL-4" value="芯片复位" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="229" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOOnUV--T7-roycU_YFL-6" target="UOOnUV--T7-roycU_YFL-8">
@@ -180,8 +180,20 @@
         <mxCell id="UOOnUV--T7-roycU_YFL-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="369" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UOOnUV--T7-roycU_YFL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOOnUV--T7-roycU_YFL-8" target="UOOnUV--T7-roycU_YFL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="509" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOOnUV--T7-roycU_YFL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOOnUV--T7-roycU_YFL-10" target="UOOnUV--T7-roycU_YFL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOOnUV--T7-roycU_YFL-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="649" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOOnUV--T7-roycU_YFL-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="789" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
