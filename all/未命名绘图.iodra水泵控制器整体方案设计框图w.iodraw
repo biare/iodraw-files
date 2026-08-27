@@ -61,13 +61,15 @@
         <mxCell id="lZYDxX6ABb8niJkelu66-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lZYDxX6ABb8niJkelu66-17" target="lZYDxX6ABb8niJkelu66-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="400" />
-              <mxPoint x="280" y="250" />
+              <mxPoint x="285" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lZYDxX6ABb8niJkelu66-17" value="故障信号" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZYDxX6ABb8niJkelu66-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lZYDxX6ABb8niJkelu66-20" target="lZYDxX6ABb8niJkelu66-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZYDxX6ABb8niJkelu66-20" value="电压/电流/温度" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
