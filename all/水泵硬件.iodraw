@@ -201,7 +201,7 @@
         <mxCell id="UOOnUV--T7-roycU_YFL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOOnUV--T7-roycU_YFL-14" target="UOOnUV--T7-roycU_YFL-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UOOnUV--T7-roycU_YFL-14" value="LIN初始化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UOOnUV--T7-roycU_YFL-14" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;LIN初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOOnUV--T7-roycU_YFL-16" target="UOOnUV--T7-roycU_YFL-18">
