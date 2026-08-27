@@ -18,7 +18,7 @@
             <mxPoint x="220" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lZYDxX6ABb8niJkelu66-0" value="LIN收发器" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lZYDxX6ABb8niJkelu66-0" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;LIN收发器&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZYDxX6ABb8niJkelu66-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lZYDxX6ABb8niJkelu66-3">
