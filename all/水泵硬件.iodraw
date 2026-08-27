@@ -172,7 +172,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-4" value="芯片复位" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="159" width="120" height="60" as="geometry" />
+          <mxGeometry x="95" y="159" width="120" height="57" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOOnUV--T7-roycU_YFL-6" target="UOOnUV--T7-roycU_YFL-8">
           <mxGeometry relative="1" as="geometry" />
