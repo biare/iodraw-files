@@ -145,11 +145,14 @@
         <mxCell id="BTGuQC6xsHXAk_xeOuWQ-15" value="外部信号接口" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="42" y="195" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-15">
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-15" target="BTGuQC6xsHXAk_xeOuWQ-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="387" y="140" as="sourcePoint" />
             <mxPoint x="437" y="90" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="85" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
