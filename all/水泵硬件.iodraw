@@ -216,7 +216,7 @@
         <mxCell id="UOOnUV--T7-roycU_YFL-18" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;ADC初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="510" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UOOnUV--T7-roycU_YFL-20" value="While（1）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UOOnUV--T7-roycU_YFL-20" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;While（1）&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="560" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
