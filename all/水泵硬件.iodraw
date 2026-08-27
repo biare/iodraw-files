@@ -128,14 +128,11 @@
         <mxCell id="BTGuQC6xsHXAk_xeOuWQ-9" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="704" y="48" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-11" target="BTGuQC6xsHXAk_xeOuWQ-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BTGuQC6xsHXAk_xeOuWQ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="198" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-116" y="198" width="120" height="60" as="geometry" />
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-83" y="195" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
