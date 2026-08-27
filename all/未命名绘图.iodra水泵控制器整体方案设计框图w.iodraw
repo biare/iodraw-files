@@ -73,14 +73,6 @@
         <mxCell id="lZYDxX6ABb8niJkelu66-15" value="PMSM" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lZYDxX6ABb8niJkelu66-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.311;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lZYDxX6ABb8niJkelu66-17" target="lZYDxX6ABb8niJkelu66-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="285" y="400" />
-              <mxPoint x="285" y="278" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lZYDxX6ABb8niJkelu66-17" value="故障信号" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
         </mxCell>
