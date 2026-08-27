@@ -98,7 +98,7 @@
         <mxCell id="BTGuQC6xsHXAk_xeOuWQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-1" target="BTGuQC6xsHXAk_xeOuWQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-1" value="供电电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="58" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BTGuQC6xsHXAk_xeOuWQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-2" target="BTGuQC6xsHXAk_xeOuWQ-3">
