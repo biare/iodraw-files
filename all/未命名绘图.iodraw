@@ -354,9 +354,9 @@
           <mxGeometry x="389" y="605" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-21" value="水泵停机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="586" y="605" width="120" height="60" as="geometry" />
+          <mxGeometry x="558" y="605" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-25" value="将计算得到的转速传递给目标转速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="708" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
