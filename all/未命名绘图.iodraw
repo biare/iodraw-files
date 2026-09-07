@@ -295,6 +295,9 @@
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-2" value="PWM捕获初始化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="114.5" y="135" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132" y="263" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
