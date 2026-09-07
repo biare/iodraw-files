@@ -298,6 +298,9 @@
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-6" value="是否捕获到PWM" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="134.5" y="259" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-7" value="计算PWM频率是否在有效范围" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="382" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
