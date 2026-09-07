@@ -355,11 +355,6 @@
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-18" value="根据转速曲线计算转速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="23" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="269" y="693.5000203450522" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-19" value="水泵全速运转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -371,6 +366,12 @@
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-25" value="将计算得到的转速传递给目标转速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="162" y="768" as="sourcePoint" />
+            <mxPoint x="212" y="718" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
