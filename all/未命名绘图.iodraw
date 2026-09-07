@@ -304,6 +304,9 @@
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-6" value="是否捕获到PWM" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="134.5" y="259" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-7" target="_VzSlJNoDiDSXm1ZXoVv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-7" value="计算PWM频率是否在有效范围" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="382" width="120" height="60" as="geometry" />
         </mxCell>
@@ -315,6 +318,16 @@
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-10" value="捕获当前电压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="449" y="382" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="83.33331298828125" y="598.166742960612" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="254.66667683919286" y="596.8333536783855" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-13" value="PWM是否在有效范围" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114.5" y="460" width="125" height="80" as="geometry" />
