@@ -351,13 +351,16 @@
           <mxGeometry x="209" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-20" value="水泵全速运转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="605" width="120" height="60" as="geometry" />
+          <mxGeometry x="346" y="605" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-21" value="水泵停机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="558" y="605" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-25" target="_VzSlJNoDiDSXm1ZXoVv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-25" value="将计算得到的转速传递给目标转速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="708" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="745" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
