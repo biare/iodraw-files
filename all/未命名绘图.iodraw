@@ -343,8 +343,8 @@
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-18" target="_VzSlJNoDiDSXm1ZXoVv-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="83" y="538" />
-              <mxPoint x="370" y="538" />
+              <mxPoint x="83" y="481" />
+              <mxPoint x="370" y="481" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -361,11 +361,11 @@
           <mxGeometry x="555" y="420" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-25" value="将计算得到的转速传递给目标转速" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="597" width="120" height="60" as="geometry" />
+          <mxGeometry x="313" y="503" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_VzSlJNoDiDSXm1ZXoVv-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="269" y="538" as="sourcePoint" />
+            <mxPoint x="268" y="479" as="sourcePoint" />
             <mxPoint x="212" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
