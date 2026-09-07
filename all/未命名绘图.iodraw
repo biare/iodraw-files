@@ -326,14 +326,17 @@
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="254.66667683919286" y="596.8333536783855" as="targetPoint" />
+            <mxPoint x="263" y="593" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-13" value="PWM是否在有效范围" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="114.5" y="460" width="125" height="80" as="geometry" />
+          <mxGeometry x="112.5" y="476" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-14" value="判断电压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="466" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-18" value="捕获当前电压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459" y="392" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
