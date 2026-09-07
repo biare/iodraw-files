@@ -314,6 +314,9 @@
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-10" value="捕获当前电压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="449" y="281" width="120" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-13" target="_VzSlJNoDiDSXm1ZXoVv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-13" value="PWM是否在有效范围" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="112" y="328" width="125.5" height="59" as="geometry" />
         </mxCell>
@@ -337,9 +340,6 @@
               <mxPoint x="370" y="538" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-18" target="_VzSlJNoDiDSXm1ZXoVv-13">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-18" value="根据转速曲线计算转速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="22" y="420" width="120" height="38" as="geometry" />
