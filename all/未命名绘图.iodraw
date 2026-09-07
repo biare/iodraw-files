@@ -281,19 +281,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-1" target="_VzSlJNoDiDSXm1ZXoVv-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174.5" y="135" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="119" y="43" width="111" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-2">
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174.5" y="195" as="sourcePoint" />
             <mxPoint x="174.5" y="265" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-2" value="PWM捕获初始化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="114.5" y="135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-6" target="_VzSlJNoDiDSXm1ZXoVv-7">
           <mxGeometry relative="1" as="geometry" />
@@ -390,6 +390,9 @@
             <mxPoint x="620" y="682" as="sourcePoint" />
             <mxPoint x="620" y="656" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-37" value="PWM捕获超时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459" y="279" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
