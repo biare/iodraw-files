@@ -371,20 +371,14 @@
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-34" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="369" y="538" as="sourcePoint" />
-            <mxPoint x="669" y="538" as="targetPoint" />
+            <mxPoint x="370" y="536" as="sourcePoint" />
+            <mxPoint x="670" y="536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_VzSlJNoDiDSXm1ZXoVv-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="414" y="538" as="sourcePoint" />
             <mxPoint x="416" y="515" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="534" as="sourcePoint" />
-            <mxPoint x="620" y="508" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-37" target="_VzSlJNoDiDSXm1ZXoVv-6" edge="1">
