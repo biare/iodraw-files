@@ -343,11 +343,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-18" target="_VzSlJNoDiDSXm1ZXoVv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-18" value="根据转速曲线计算转速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22" y="398" width="120" height="60" as="geometry" />
+          <mxGeometry x="22" y="420" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-19" target="_VzSlJNoDiDSXm1ZXoVv-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-19" value="水泵全速运转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="209" y="452" width="120" height="60" as="geometry" />
+          <mxGeometry x="207" y="422" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-20" value="水泵全速运转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="452" width="120" height="60" as="geometry" />
