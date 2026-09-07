@@ -317,7 +317,10 @@
           <mxGeometry x="449" y="382" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-13" value="是否捕获到PWM" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="144.5" y="269" width="80" height="80" as="geometry" />
+          <mxGeometry x="138" y="461" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-14" value="判断电压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="466" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
