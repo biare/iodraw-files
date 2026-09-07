@@ -314,11 +314,6 @@
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-10" value="捕获当前电压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="449" y="281" width="120" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="263" y="445" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-13" value="PWM是否在有效范围" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="112" y="328" width="125.5" height="59" as="geometry" />
         </mxCell>
@@ -349,11 +344,8 @@
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-18" value="根据转速曲线计算转速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="22" y="420" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-19" target="_VzSlJNoDiDSXm1ZXoVv-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-19" value="水泵全速运转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="207" y="422" width="120" height="60" as="geometry" />
+          <mxGeometry x="208" y="420" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-20" value="水泵全速运转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="452" width="120" height="60" as="geometry" />
