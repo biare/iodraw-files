@@ -317,6 +317,9 @@
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-13" target="_VzSlJNoDiDSXm1ZXoVv-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-13" target="_VzSlJNoDiDSXm1ZXoVv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-13" value="PWM是否在有效范围" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="111" y="328" width="126.5" height="59" as="geometry" />
         </mxCell>
