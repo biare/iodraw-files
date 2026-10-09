@@ -427,7 +427,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="状态机流程" id="0FeQw4piaJwoy5W9Cml3">
-    <mxGraphModel dx="719" dy="386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="139" dy="75" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="i1IsPDkibHt2oXBwJNmn-0" />
         <mxCell id="i1IsPDkibHt2oXBwJNmn-1" parent="i1IsPDkibHt2oXBwJNmn-0" />
@@ -489,9 +489,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8E4CRWQ8mVQY1L-sYgwS-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.97;exitY=0.377;exitDx=0;exitDy=0;entryX=0.943;entryY=0.738;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="i1IsPDkibHt2oXBwJNmn-1" source="8E4CRWQ8mVQY1L-sYgwS-6" target="8E4CRWQ8mVQY1L-sYgwS-6">
+        <mxCell id="8E4CRWQ8mVQY1L-sYgwS-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.943;entryY=0.738;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="i1IsPDkibHt2oXBwJNmn-1" target="8E4CRWQ8mVQY1L-sYgwS-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="631" y="506" as="sourcePoint" />
+            <mxPoint x="598" y="468" as="sourcePoint" />
             <mxPoint x="681" y="456" as="targetPoint" />
             <Array as="points">
               <mxPoint x="609" y="456" />
