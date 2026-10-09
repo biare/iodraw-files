@@ -427,7 +427,7 @@
           <mxGeometry x="149" y="618" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kxkXcGLxZQqn1IMmqDSE-1" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;读取运行状态&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
-          <mxGeometry x="412" y="419" width="80" height="80" as="geometry" />
+          <mxGeometry x="397" y="323" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
