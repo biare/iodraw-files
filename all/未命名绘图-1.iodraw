@@ -413,7 +413,7 @@
           <mxGeometry x="388" y="560" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9WdZA-hGXJszo3SXB_i-20" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;否&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
-          <mxGeometry x="263" y="518" width="27" height="30" as="geometry" />
+          <mxGeometry x="209" y="611" width="27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9WdZA-hGXJszo3SXB_i-21" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
           <mxGeometry x="312" y="545" width="27" height="30" as="geometry" />
