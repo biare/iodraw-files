@@ -372,13 +372,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i9WdZA-hGXJszo3SXB_i-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;单电阻采样处理&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
-          <mxGeometry x="132.5" y="452" width="153" height="30" as="geometry" />
+          <mxGeometry x="132.5" y="451" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QIkaqcJyWgsKYngdGOi7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i9WdZA-hGXJszo3SXB_i-1" source="QIkaqcJyWgsKYngdGOi7-1" target="QIkaqcJyWgsKYngdGOi7-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QIkaqcJyWgsKYngdGOi7-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;故障诊断&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
-          <mxGeometry x="149" y="510" width="120" height="30" as="geometry" />
+          <mxGeometry x="149" y="509" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QIkaqcJyWgsKYngdGOi7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i9WdZA-hGXJszo3SXB_i-1" source="QIkaqcJyWgsKYngdGOi7-5" target="QIkaqcJyWgsKYngdGOi7-7">
           <mxGeometry relative="1" as="geometry" />
