@@ -415,6 +415,14 @@
         <mxCell id="i1IsPDkibHt2oXBwJNmn-7" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;单电阻采样处理&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
           <mxGeometry x="132.5" y="479" width="153" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YHIDqM8FzvaqBXxoWP0k-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="i1IsPDkibHt2oXBwJNmn-1" source="i1IsPDkibHt2oXBwJNmn-9" target="ZuqNjWi1in1cdW9AFXtH-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="311" y="595" />
+              <mxPoint x="311" y="343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="i1IsPDkibHt2oXBwJNmn-9" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;故障诊断&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
           <mxGeometry x="149" y="580" width="120" height="30" as="geometry" />
         </mxCell>
