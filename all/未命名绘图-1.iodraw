@@ -393,8 +393,8 @@
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-37" value="PWM捕获初始化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="116.25" y="95" width="116.5" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="_dR72NKiiLGOVRtfdc4J-1" value="是" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="94.89656856142244" y="204.0344743399785" width="140" height="160" as="geometry" />
+        <mxCell id="_dR72NKiiLGOVRtfdc4J-1" value="是" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="179" y="199" width="34.5" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
