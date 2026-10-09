@@ -547,7 +547,10 @@
           <mxGeometry x="203" y="542" width="81" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HCoiAw9pA2eWtEtlATLH-8" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;预定位模式&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;rotation=0;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
-          <mxGeometry x="107" y="563" width="104" height="28" as="geometry" />
+          <mxGeometry x="94" y="563" width="104" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="HCoiAw9pA2eWtEtlATLH-10" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;预定位完成&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;rotation=0;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
+          <mxGeometry x="376" y="632" width="104" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
