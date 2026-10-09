@@ -329,7 +329,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i5AbeqmjjVZ5PHCQHUw6-32" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;故障诊断&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i5AbeqmjjVZ5PHCQHUw6-1">
-          <mxGeometry x="388" y="510" width="120" height="30" as="geometry" />
+          <mxGeometry x="388" y="481" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fhEfCs12GCQyhnvy6QRo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="i5AbeqmjjVZ5PHCQHUw6-1" source="i5AbeqmjjVZ5PHCQHUw6-34" target="i5AbeqmjjVZ5PHCQHUw6-21">
           <mxGeometry relative="1" as="geometry">
