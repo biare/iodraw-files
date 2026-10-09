@@ -426,9 +426,6 @@
         <mxCell id="i1IsPDkibHt2oXBwJNmn-9" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;故障诊断&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
           <mxGeometry x="149" y="509" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i1IsPDkibHt2oXBwJNmn-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;中断返回&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
-          <mxGeometry x="149" y="618" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZuqNjWi1in1cdW9AFXtH-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="i1IsPDkibHt2oXBwJNmn-1" source="ZuqNjWi1in1cdW9AFXtH-2" target="ZuqNjWi1in1cdW9AFXtH-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -441,10 +438,10 @@
           <mxGeometry x="422" y="390" width="132" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZuqNjWi1in1cdW9AFXtH-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;电机控制&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
-          <mxGeometry x="530" y="472" width="120" height="30" as="geometry" />
+          <mxGeometry x="536" y="509" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZuqNjWi1in1cdW9AFXtH-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;中断返回&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
-          <mxGeometry x="324" y="472" width="120" height="30" as="geometry" />
+          <mxGeometry x="322" y="509" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZuqNjWi1in1cdW9AFXtH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="i1IsPDkibHt2oXBwJNmn-1" source="ZuqNjWi1in1cdW9AFXtH-6" target="ZuqNjWi1in1cdW9AFXtH-2">
           <mxGeometry relative="1" as="geometry" />
