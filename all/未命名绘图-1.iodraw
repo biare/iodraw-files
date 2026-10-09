@@ -443,7 +443,7 @@
         <mxCell id="ZuqNjWi1in1cdW9AFXtH-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;LIN通信&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
           <mxGeometry x="530" y="472" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZuqNjWi1in1cdW9AFXtH-4" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;PWM通信&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
+        <mxCell id="ZuqNjWi1in1cdW9AFXtH-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;中断返回&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
           <mxGeometry x="324" y="472" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZuqNjWi1in1cdW9AFXtH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="i1IsPDkibHt2oXBwJNmn-1" source="ZuqNjWi1in1cdW9AFXtH-6" target="ZuqNjWi1in1cdW9AFXtH-2">
@@ -455,7 +455,7 @@
         <mxCell id="YHIDqM8FzvaqBXxoWP0k-0" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
           <mxGeometry x="351" y="440" width="27" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YHIDqM8FzvaqBXxoWP0k-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
+        <mxCell id="YHIDqM8FzvaqBXxoWP0k-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;否&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="i1IsPDkibHt2oXBwJNmn-1">
           <mxGeometry x="602" y="440" width="27" height="30" as="geometry" />
         </mxCell>
       </root>
