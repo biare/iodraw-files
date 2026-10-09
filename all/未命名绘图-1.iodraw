@@ -359,7 +359,7 @@
         <mxCell id="i9WdZA-hGXJszo3SXB_i-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="i9WdZA-hGXJszo3SXB_i-1" source="i9WdZA-hGXJszo3SXB_i-3" target="i9WdZA-hGXJszo3SXB_i-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i9WdZA-hGXJszo3SXB_i-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;PWM周期触发控制中断&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
+        <mxCell id="i9WdZA-hGXJszo3SXB_i-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;触发中断&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
           <mxGeometry x="141" y="307" width="136" height="62" as="geometry" />
         </mxCell>
         <mxCell id="i9WdZA-hGXJszo3SXB_i-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i9WdZA-hGXJszo3SXB_i-1" source="i9WdZA-hGXJszo3SXB_i-5" target="i9WdZA-hGXJszo3SXB_i-6">
@@ -374,9 +374,6 @@
         <mxCell id="i9WdZA-hGXJszo3SXB_i-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;单电阻采样处理&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
           <mxGeometry x="132.5" y="452" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i9WdZA-hGXJszo3SXB_i-20" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;否&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
-          <mxGeometry x="209" y="611" width="27" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="QIkaqcJyWgsKYngdGOi7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i9WdZA-hGXJszo3SXB_i-1" source="QIkaqcJyWgsKYngdGOi7-1" target="QIkaqcJyWgsKYngdGOi7-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -387,10 +384,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QIkaqcJyWgsKYngdGOi7-5" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;读取运行状态&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
-          <mxGeometry x="149" y="652" width="120" height="30" as="geometry" />
+          <mxGeometry x="149" y="566" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QIkaqcJyWgsKYngdGOi7-7" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;中断返回&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
-          <mxGeometry x="149" y="762" width="120" height="30" as="geometry" />
+          <mxGeometry x="149" y="618" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
