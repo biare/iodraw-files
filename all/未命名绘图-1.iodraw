@@ -368,7 +368,7 @@
         <mxCell id="i9WdZA-hGXJszo3SXB_i-5" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;同步ADC采样&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
           <mxGeometry x="149" y="472" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i9WdZA-hGXJszo3SXB_i-6" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;While（1）&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
+        <mxCell id="i9WdZA-hGXJszo3SXB_i-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;单电阻采样处理&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
           <mxGeometry x="149" y="534" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9WdZA-hGXJszo3SXB_i-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i9WdZA-hGXJszo3SXB_i-1" source="i9WdZA-hGXJszo3SXB_i-8" target="i9WdZA-hGXJszo3SXB_i-11">
