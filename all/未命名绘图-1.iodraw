@@ -310,7 +310,7 @@
             <mxPoint x="379" y="442" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i5AbeqmjjVZ5PHCQHUw6-26" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是否接收LIN通信&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="i5AbeqmjjVZ5PHCQHUw6-1">
+        <mxCell id="i5AbeqmjjVZ5PHCQHUw6-26" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;4s内是否&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;接收&lt;/font&gt;&lt;span style=&quot;font-size: 18px; font-family: 宋体; background-color: initial;&quot;&gt;LIN通信&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="i5AbeqmjjVZ5PHCQHUw6-1">
           <mxGeometry x="366.5" y="334" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i5AbeqmjjVZ5PHCQHUw6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i5AbeqmjjVZ5PHCQHUw6-1" source="i5AbeqmjjVZ5PHCQHUw6-28" target="i5AbeqmjjVZ5PHCQHUw6-32">
