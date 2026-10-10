@@ -777,6 +777,15 @@
         <mxCell id="NtpW9NrITMMuhWDVf6UB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="NtpW9NrITMMuhWDVf6UB-12" target="NtpW9NrITMMuhWDVf6UB-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NtpW9NrITMMuhWDVf6UB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="NtpW9NrITMMuhWDVf6UB-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="284" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="672" y="532" />
+              <mxPoint x="672" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;电压大于8.5且小于16持续1s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
           <mxGeometry x="486" y="478" width="155" height="107" as="geometry" />
         </mxCell>
