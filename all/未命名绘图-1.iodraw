@@ -908,7 +908,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6rtGW6NnrPQZygL3fzFt-25" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;温度小于132℃持续20s&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
-          <mxGeometry x="630" y="485" width="155" height="107" as="geometry" />
+          <mxGeometry x="630" y="485" width="155" height="83" as="geometry" />
         </mxCell>
         <mxCell id="6rtGW6NnrPQZygL3fzFt-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6rtGW6NnrPQZygL3fzFt-1" source="6rtGW6NnrPQZygL3fzFt-27" target="6rtGW6NnrPQZygL3fzFt-15">
           <mxGeometry relative="1" as="geometry" />
@@ -943,7 +943,7 @@
         <mxCell id="C4W17rcQoGqsY4KyAPUZ-0" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;温度大于137℃持续0.5s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
           <mxGeometry x="526" y="391.75" width="133.5" height="90.5" as="geometry" />
         </mxCell>
-        <mxCell id="C4W17rcQoGqsY4KyAPUZ-6" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;将电机转速限制在最大转速的60%&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
+        <mxCell id="C4W17rcQoGqsY4KyAPUZ-6" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;取消转速限制&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
           <mxGeometry x="522" y="581" width="119" height="47" as="geometry" />
         </mxCell>
       </root>
