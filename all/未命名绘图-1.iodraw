@@ -394,7 +394,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fK4DiSlqsGL5J8HrVv7C-30" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;存在停机故障&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="i9WdZA-hGXJszo3SXB_i-1">
-          <mxGeometry x="434" y="414" width="132" height="80" as="geometry" />
+          <mxGeometry x="442" y="412" width="132" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fK4DiSlqsGL5J8HrVv7C-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i9WdZA-hGXJszo3SXB_i-1" source="fK4DiSlqsGL5J8HrVv7C-32" target="fK4DiSlqsGL5J8HrVv7C-39">
           <mxGeometry relative="1" as="geometry" />
