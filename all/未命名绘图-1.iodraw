@@ -424,7 +424,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-7" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;触发故障保护动作&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
-          <mxGeometry x="213" y="791" width="120" height="30" as="geometry" />
+          <mxGeometry x="214" y="791" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="xI6xW0vJt-_CfhlOD00Y-9" target="xI6xW0vJt-_CfhlOD00Y-11">
           <mxGeometry relative="1" as="geometry" />
