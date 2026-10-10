@@ -745,7 +745,7 @@
             <mxPoint x="344" y="354" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转速是否&amp;lt;500rpm&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;且电机母线电流大于15A&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
+        <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;电压大于16.5持续0.5s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
           <mxGeometry x="315.75" y="249.25" width="190.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="nEw2X_ZZAJ3a3PM8YHRs-14" target="nEw2X_ZZAJ3a3PM8YHRs-19">
