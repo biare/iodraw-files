@@ -352,7 +352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="空转故障" id="LG9MseDocXm5V-5ZliAi">
-    <mxGraphModel dx="140" dy="75" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="266" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7wiciUh_t-ydqMchjlou-0" />
         <mxCell id="7wiciUh_t-ydqMchjlou-1" parent="7wiciUh_t-ydqMchjlou-0" />
@@ -451,7 +451,7 @@
         </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="xI6xW0vJt-_CfhlOD00Y-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="903" as="targetPoint" />
+            <mxPoint x="410" y="902" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;重启二十次后仍监测出故障&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
