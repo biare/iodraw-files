@@ -352,7 +352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="空转故障" id="LG9MseDocXm5V-5ZliAi">
-    <mxGraphModel dx="168" dy="90" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="140" dy="75" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7wiciUh_t-ydqMchjlou-0" />
         <mxCell id="7wiciUh_t-ydqMchjlou-1" parent="7wiciUh_t-ydqMchjlou-0" />
@@ -412,10 +412,10 @@
         </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-25" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="396" y="494" as="targetPoint" />
-            <mxPoint x="164" y="775" as="sourcePoint" />
+            <mxPoint x="397" y="498" as="targetPoint" />
+            <mxPoint x="160" y="777" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="137.5" y="496" />
+              <mxPoint x="133.5" y="498" />
             </Array>
           </mxGeometry>
         </mxCell>
