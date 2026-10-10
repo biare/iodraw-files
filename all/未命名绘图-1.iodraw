@@ -818,7 +818,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="过温故障" id="DFUz7Aik17SyLLB_Zc5I">
-    <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6rtGW6NnrPQZygL3fzFt-0" />
         <mxCell id="6rtGW6NnrPQZygL3fzFt-1" parent="6rtGW6NnrPQZygL3fzFt-0" />
@@ -913,7 +913,7 @@
         <mxCell id="6rtGW6NnrPQZygL3fzFt-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6rtGW6NnrPQZygL3fzFt-1" source="6rtGW6NnrPQZygL3fzFt-27" target="6rtGW6NnrPQZygL3fzFt-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6rtGW6NnrPQZygL3fzFt-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;将电机转速限制在最大转速的60%&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
+        <mxCell id="6rtGW6NnrPQZygL3fzFt-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;限制最大转速的60%&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
           <mxGeometry x="377" y="581" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="6rtGW6NnrPQZygL3fzFt-28" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
