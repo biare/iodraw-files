@@ -818,7 +818,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="过温故障" id="DFUz7Aik17SyLLB_Zc5I">
-    <mxGraphModel dx="496" dy="266" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6rtGW6NnrPQZygL3fzFt-0" />
         <mxCell id="6rtGW6NnrPQZygL3fzFt-1" parent="6rtGW6NnrPQZygL3fzFt-0" />
@@ -878,7 +878,7 @@
         </mxCell>
         <mxCell id="C4W17rcQoGqsY4KyAPUZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6rtGW6NnrPQZygL3fzFt-1" source="6rtGW6NnrPQZygL3fzFt-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="511.99994913736987" y="284.83333333333337" as="targetPoint" />
+            <mxPoint x="512" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6rtGW6NnrPQZygL3fzFt-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;温度小于140℃持续20s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
@@ -903,6 +903,9 @@
               <mxPoint x="809" y="280" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="C4W17rcQoGqsY4KyAPUZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6rtGW6NnrPQZygL3fzFt-1" source="6rtGW6NnrPQZygL3fzFt-25" target="C4W17rcQoGqsY4KyAPUZ-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6rtGW6NnrPQZygL3fzFt-25" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;温度小于132℃持续20s&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
           <mxGeometry x="630" y="485" width="155" height="107" as="geometry" />
@@ -939,6 +942,9 @@
         </mxCell>
         <mxCell id="C4W17rcQoGqsY4KyAPUZ-0" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;温度大于137℃持续0.5s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
           <mxGeometry x="526" y="391.75" width="133.5" height="90.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C4W17rcQoGqsY4KyAPUZ-6" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;将电机转速限制在最大转速的60%&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
+          <mxGeometry x="522" y="581" width="119" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
