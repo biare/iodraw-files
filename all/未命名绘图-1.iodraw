@@ -860,7 +860,7 @@
             <mxPoint x="135.5" y="654.3333028157552" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6rtGW6NnrPQZygL3fzFt-14" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报过压故障，水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
+        <mxCell id="6rtGW6NnrPQZygL3fzFt-14" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报过温故障，水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
           <mxGeometry x="76" y="581" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="6rtGW6NnrPQZygL3fzFt-15" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;结束&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
@@ -883,7 +883,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6rtGW6NnrPQZygL3fzFt-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;电压小于8持续0.5s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
+        <mxCell id="6rtGW6NnrPQZygL3fzFt-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;温度小于140℃持续20s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
           <mxGeometry x="358" y="391.75" width="133.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="6rtGW6NnrPQZygL3fzFt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="6rtGW6NnrPQZygL3fzFt-1" source="6rtGW6NnrPQZygL3fzFt-21">
