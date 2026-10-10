@@ -705,7 +705,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="过欠压故障" id="LocuH3k8ix0eGh_7SiJC">
-    <mxGraphModel dx="1226" dy="658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-0" />
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-1" parent="nEw2X_ZZAJ3a3PM8YHRs-0" />
@@ -742,15 +742,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NtpW9NrITMMuhWDVf6UB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="nEw2X_ZZAJ3a3PM8YHRs-12" target="NtpW9NrITMMuhWDVf6UB-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="425.5" y="291" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;电压大于16.5持续0.5s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="188.25" y="245.25" width="190.5" height="90.5" as="geometry" />
+          <mxGeometry x="228.63" y="247" width="109.75" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-15" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;否&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
           <mxGeometry x="397.5" y="292" width="27" height="30" as="geometry" />
@@ -783,7 +776,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;电压小于8持续0.5s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="330.5" y="391.75" width="190.5" height="90.5" as="geometry" />
+          <mxGeometry x="359" y="391.75" width="111.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报欠压故障，水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
           <mxGeometry x="223.5" y="529" width="119" height="47" as="geometry" />
@@ -809,7 +802,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;电压大于8.5且小于16持续1s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="461.5" y="529" width="190.5" height="90.5" as="geometry" />
+          <mxGeometry x="486" y="529" width="119.5" height="107" as="geometry" />
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="NtpW9NrITMMuhWDVf6UB-13" target="nEw2X_ZZAJ3a3PM8YHRs-39">
           <mxGeometry relative="1" as="geometry" />
