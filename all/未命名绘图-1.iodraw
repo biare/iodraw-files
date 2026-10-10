@@ -815,7 +815,10 @@
           <mxGeometry x="589" y="533" width="190.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-13" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报欠压故障，水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="473" y="664" width="119" height="47" as="geometry" />
+          <mxGeometry x="471" y="654" width="119" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="NtpW9NrITMMuhWDVf6UB-17" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
+          <mxGeometry x="563" y="547" width="27" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
