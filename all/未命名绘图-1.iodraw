@@ -368,7 +368,7 @@
         <mxCell id="7wiciUh_t-ydqMchjlou-5" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;系统初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="149" y="400" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7wiciUh_t-ydqMchjlou-6" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;While（1）&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
+        <mxCell id="7wiciUh_t-ydqMchjlou-6" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;系统切入闭环控制&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="149" y="473" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7wiciUh_t-ydqMchjlou-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="7wiciUh_t-ydqMchjlou-8" target="7wiciUh_t-ydqMchjlou-11">
@@ -405,14 +405,6 @@
         </mxCell>
         <mxCell id="7wiciUh_t-ydqMchjlou-17" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;故障诊断&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="388" y="488" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7wiciUh_t-ydqMchjlou-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="7wiciUh_t-ydqMchjlou-19" target="7wiciUh_t-ydqMchjlou-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="448" y="613" />
-              <mxPoint x="209" y="613" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="7wiciUh_t-ydqMchjlou-19" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;电机控制&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="388" y="560" width="120" height="30" as="geometry" />
