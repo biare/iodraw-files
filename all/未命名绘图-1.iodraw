@@ -433,7 +433,7 @@
             <mxPoint x="273" y="1159" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xI6xW0vJt-_CfhlOD00Y-11" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报故障位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
+        <mxCell id="xI6xW0vJt-_CfhlOD00Y-11" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报空转故障位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="213" y="1049" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-14" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;干转故障计数器累减&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
