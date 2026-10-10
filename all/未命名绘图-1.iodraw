@@ -399,7 +399,7 @@
         <mxCell id="7wiciUh_t-ydqMchjlou-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="7wiciUh_t-ydqMchjlou-15" target="7wiciUh_t-ydqMchjlou-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7wiciUh_t-ydqMchjlou-15" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;LIN通信&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
+        <mxCell id="7wiciUh_t-ydqMchjlou-15" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;干转故障计数器累加&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="213" y="630" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7wiciUh_t-ydqMchjlou-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="7wiciUh_t-ydqMchjlou-17" target="7wiciUh_t-ydqMchjlou-19">
