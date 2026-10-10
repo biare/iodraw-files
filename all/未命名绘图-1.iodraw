@@ -422,6 +422,9 @@
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-9" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;重启次数是否大于三&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="193.5" y="928" width="159" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="xI6xW0vJt-_CfhlOD00Y-11" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;触发故障保护动作&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
+          <mxGeometry x="223" y="867" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
