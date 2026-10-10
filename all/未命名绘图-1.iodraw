@@ -434,7 +434,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-11" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报空转故障位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
-          <mxGeometry x="213" y="1049" width="120" height="30" as="geometry" />
+          <mxGeometry x="213" y="1037" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-14" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;干转故障计数器累减&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="386" y="992" width="120" height="30" as="geometry" />
@@ -448,7 +448,7 @@
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;重启二十次后仍监测出故障&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="193.5" y="1109" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xI6xW0vJt-_CfhlOD00Y-20" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
+        <mxCell id="xI6xW0vJt-_CfhlOD00Y-20" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="213" y="1219" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
