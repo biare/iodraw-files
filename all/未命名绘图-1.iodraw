@@ -390,7 +390,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7wiciUh_t-ydqMchjlou-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转速是否&amp;gt;3000rpm且电机母线电流小于1.5A&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
-          <mxGeometry x="317.5" y="536" width="159" height="80" as="geometry" />
+          <mxGeometry x="301.75" y="544.5" width="190.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="7wiciUh_t-ydqMchjlou-15" target="xI6xW0vJt-_CfhlOD00Y-6">
           <mxGeometry relative="1" as="geometry" />
