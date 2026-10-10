@@ -705,7 +705,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="过欠压故障" id="LocuH3k8ix0eGh_7SiJC">
-    <mxGraphModel dx="1226" dy="658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="932" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-0" />
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-1" parent="nEw2X_ZZAJ3a3PM8YHRs-0" />
@@ -713,13 +713,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="354" y="76" width="114" height="34" as="geometry" />
+          <mxGeometry x="226.5" y="72" width="114" height="34" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="nEw2X_ZZAJ3a3PM8YHRs-5" target="nEw2X_ZZAJ3a3PM8YHRs-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-5" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;系统初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="351" y="130" width="120" height="30" as="geometry" />
+          <mxGeometry x="223.5" y="126" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="nEw2X_ZZAJ3a3PM8YHRs-8" target="nEw2X_ZZAJ3a3PM8YHRs-12">
           <mxGeometry relative="1" as="geometry" />
@@ -728,94 +728,94 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-8" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;进入闭环控制&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="351" y="180" width="120" height="30" as="geometry" />
+          <mxGeometry x="223.5" y="176" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" target="nEw2X_ZZAJ3a3PM8YHRs-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="411.0344827586207" y="232" as="sourcePoint" />
+            <mxPoint x="283.5344827586207" y="228" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="nEw2X_ZZAJ3a3PM8YHRs-12" target="nEw2X_ZZAJ3a3PM8YHRs-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="267" y="295" />
+              <mxPoint x="139.5" y="291" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="nEw2X_ZZAJ3a3PM8YHRs-12" target="NtpW9NrITMMuhWDVf6UB-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="553" y="295" />
+              <mxPoint x="425.5" y="291" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;电压大于16.5持续0.5s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="315.75" y="249.25" width="190.5" height="90.5" as="geometry" />
+          <mxGeometry x="188.25" y="245.25" width="190.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-15" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;否&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="525" y="296" width="27" height="30" as="geometry" />
+          <mxGeometry x="397.5" y="292" width="27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-16" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="270" y="296" width="27" height="30" as="geometry" />
+          <mxGeometry x="142.5" y="292" width="27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-21" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报过压故障，水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="207.5" y="417.5" width="119" height="47" as="geometry" />
+          <mxGeometry x="80" y="413.5" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-39" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;结束&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="482" y="843" width="120" height="30" as="geometry" />
+          <mxGeometry x="343" y="758" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nEw2X_ZZAJ3a3PM8YHRs-42" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;否&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="646" y="411" width="27" height="30" as="geometry" />
+          <mxGeometry x="518.5" y="407" width="27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="NtpW9NrITMMuhWDVf6UB-1" target="NtpW9NrITMMuhWDVf6UB-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="411" y="441" />
+              <mxPoint x="283.5" y="437" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="NtpW9NrITMMuhWDVf6UB-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="684" y="533" as="targetPoint" />
+            <mxPoint x="556.5" y="529" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="684" y="441" />
+              <mxPoint x="556.5" y="437" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;电压小于8持续0.5s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="458" y="395.75" width="190.5" height="90.5" as="geometry" />
+          <mxGeometry x="330.5" y="391.75" width="190.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报欠压故障，水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="351" y="533" width="119" height="47" as="geometry" />
+          <mxGeometry x="223.5" y="529" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-6" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="431" y="411" width="27" height="30" as="geometry" />
+          <mxGeometry x="303.5" y="407" width="27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="NtpW9NrITMMuhWDVf6UB-12" target="NtpW9NrITMMuhWDVf6UB-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="532" y="578" />
+              <mxPoint x="404.5" y="574" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1" source="NtpW9NrITMMuhWDVf6UB-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="413" y="234" as="targetPoint" />
+            <mxPoint x="283.5" y="231" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="800" y="578" />
-              <mxPoint x="800" y="234" />
-              <mxPoint x="530" y="234" />
+              <mxPoint x="672.5" y="574" />
+              <mxPoint x="672.5" y="230" />
+              <mxPoint x="402.5" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;电压大于8.5且小于16持续1s&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="589" y="533" width="190.5" height="90.5" as="geometry" />
+          <mxGeometry x="461.5" y="529" width="190.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-13" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报欠压故障，水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="471" y="654" width="119" height="47" as="geometry" />
+          <mxGeometry x="343.5" y="650" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="NtpW9NrITMMuhWDVf6UB-17" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="nEw2X_ZZAJ3a3PM8YHRs-1">
-          <mxGeometry x="563" y="547" width="27" height="30" as="geometry" />
+          <mxGeometry x="435.5" y="543" width="27" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
