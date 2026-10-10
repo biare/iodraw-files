@@ -352,7 +352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="空转故障" id="LG9MseDocXm5V-5ZliAi">
-    <mxGraphModel dx="595" dy="319" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="168" dy="90" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7wiciUh_t-ydqMchjlou-0" />
         <mxCell id="7wiciUh_t-ydqMchjlou-1" parent="7wiciUh_t-ydqMchjlou-0" />
@@ -468,7 +468,7 @@
         </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" target="xI6xW0vJt-_CfhlOD00Y-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="162" y="778" as="sourcePoint" />
+            <mxPoint x="164" y="778" as="sourcePoint" />
             <mxPoint x="263" y="681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
