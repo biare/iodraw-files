@@ -413,7 +413,7 @@
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;计数器大于200&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="193.5" y="738" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xI6xW0vJt-_CfhlOD00Y-7" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;干转故障计数器累减&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
+        <mxCell id="xI6xW0vJt-_CfhlOD00Y-7" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;触发故障保护动作&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="213" y="857" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
