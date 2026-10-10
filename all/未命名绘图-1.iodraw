@@ -804,7 +804,7 @@
         <mxCell id="IPE6yR1z-KK_VlPNan6A-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IPE6yR1z-KK_VlPNan6A-1" source="IPE6yR1z-KK_VlPNan6A-30" target="IPE6yR1z-KK_VlPNan6A-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IPE6yR1z-KK_VlPNan6A-30" value="PWM捕获初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IPE6yR1z-KK_VlPNan6A-1">
+        <mxCell id="IPE6yR1z-KK_VlPNan6A-30" value="系统初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IPE6yR1z-KK_VlPNan6A-1">
           <mxGeometry x="116.25" y="95" width="116.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="IPE6yR1z-KK_VlPNan6A-31" value="是" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="IPE6yR1z-KK_VlPNan6A-1">
