@@ -390,23 +390,16 @@
         <mxCell id="7wiciUh_t-ydqMchjlou-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转速是否&amp;gt;3000rpm且电机母线电流小于1.5A&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="317.5" y="536" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7wiciUh_t-ydqMchjlou-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="7wiciUh_t-ydqMchjlou-13" target="7wiciUh_t-ydqMchjlou-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7wiciUh_t-ydqMchjlou-13" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;PWM通信&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
+        <mxCell id="7wiciUh_t-ydqMchjlou-13" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;干转故障计数器累减&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="465" y="630" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7wiciUh_t-ydqMchjlou-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="7wiciUh_t-ydqMchjlou-15" target="7wiciUh_t-ydqMchjlou-17">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7wiciUh_t-ydqMchjlou-15" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;干转故障计数器累加&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="213" y="630" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7wiciUh_t-ydqMchjlou-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="7wiciUh_t-ydqMchjlou-17" target="7wiciUh_t-ydqMchjlou-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7wiciUh_t-ydqMchjlou-17" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;故障诊断&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
-          <mxGeometry x="339" y="690" width="120" height="30" as="geometry" />
+        <mxCell id="7wiciUh_t-ydqMchjlou-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" target="7wiciUh_t-ydqMchjlou-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="720" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7wiciUh_t-ydqMchjlou-19" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;电机控制&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="339" y="762" width="120" height="30" as="geometry" />
