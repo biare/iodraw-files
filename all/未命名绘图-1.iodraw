@@ -944,7 +944,12 @@
           <mxGeometry x="526" y="391.75" width="133.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="C4W17rcQoGqsY4KyAPUZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6rtGW6NnrPQZygL3fzFt-1" source="C4W17rcQoGqsY4KyAPUZ-6" target="6rtGW6NnrPQZygL3fzFt-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="582" y="654" />
+              <mxPoint x="436" y="654" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="C4W17rcQoGqsY4KyAPUZ-6" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;取消转速限制&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6rtGW6NnrPQZygL3fzFt-1">
           <mxGeometry x="522" y="581" width="119" height="47" as="geometry" />
