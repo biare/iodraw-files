@@ -420,6 +420,9 @@
         <mxCell id="7wiciUh_t-ydqMchjlou-21" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="290" y="379" width="27" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xI6xW0vJt-_CfhlOD00Y-2" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转速＞3000rpm且电机母线电流&amp;lt;1.5A&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
+          <mxGeometry x="131" y="582" width="159" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
