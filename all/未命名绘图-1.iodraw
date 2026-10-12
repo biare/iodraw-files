@@ -1033,7 +1033,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LIN通信" id="029iVQWxzJIgSHVxZvUS">
-    <mxGraphModel dx="868" dy="466" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-0" />
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-1" parent="TBXFGYsQxH6lUz5zvuWN-0" />
@@ -1087,6 +1087,15 @@
             <Array as="points">
               <mxPoint x="512" y="415" />
               <mxPoint x="512" y="278" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D40TBFkZNdP8wWFimr6F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TBXFGYsQxH6lUz5zvuWN-1" source="TBXFGYsQxH6lUz5zvuWN-19" target="TBXFGYsQxH6lUz5zvuWN-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="415" />
+              <mxPoint x="329" y="473" />
+              <mxPoint x="329" y="473" />
             </Array>
           </mxGeometry>
         </mxCell>
