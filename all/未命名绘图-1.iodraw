@@ -1032,7 +1032,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="过温故障 的副本" id="029iVQWxzJIgSHVxZvUS">
+  <diagram name="LIN通信" id="029iVQWxzJIgSHVxZvUS">
     <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-0" />
@@ -1251,7 +1251,7 @@
           <mxGeometry x="208" y="420" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-20" value="水泵全速运转" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="452" width="120" height="60" as="geometry" />
+          <mxGeometry x="358" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_VzSlJNoDiDSXm1ZXoVv-21" value="水泵停机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="554" y="448" width="120" height="60" as="geometry" />
