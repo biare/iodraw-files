@@ -1033,7 +1033,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LIN通信" id="029iVQWxzJIgSHVxZvUS">
-    <mxGraphModel dx="289" dy="155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="466" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-0" />
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-1" parent="TBXFGYsQxH6lUz5zvuWN-0" />
@@ -1097,7 +1097,12 @@
           <mxGeometry x="267" y="581" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-22" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
-          <mxGeometry x="303.5" y="407" width="27" height="30" as="geometry" />
+          <mxGeometry x="331" y="405" width="27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D40TBFkZNdP8wWFimr6F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=27;exitDy=15;exitPerimeter=0;" edge="1" parent="TBXFGYsQxH6lUz5zvuWN-1" source="TBXFGYsQxH6lUz5zvuWN-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557.8333333333335" y="507.5000356038412" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-28" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
           <mxGeometry x="558" y="474" width="27" height="30" as="geometry" />
