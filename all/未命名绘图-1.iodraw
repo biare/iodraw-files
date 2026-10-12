@@ -1196,7 +1196,7 @@
         <mxCell id="m1Lw_Xzft8Xqs-xEAdsN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="m1Lw_Xzft8Xqs-xEAdsN-1" source="m1Lw_Xzft8Xqs-xEAdsN-14" target="m1Lw_Xzft8Xqs-xEAdsN-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m1Lw_Xzft8Xqs-xEAdsN-14" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;解析报文&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="m1Lw_Xzft8Xqs-xEAdsN-1">
+        <mxCell id="m1Lw_Xzft8Xqs-xEAdsN-14" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;根据占空比进行调速&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="m1Lw_Xzft8Xqs-xEAdsN-1">
           <mxGeometry x="198.25" y="595" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="m1Lw_Xzft8Xqs-xEAdsN-15" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;结束&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="m1Lw_Xzft8Xqs-xEAdsN-1">
