@@ -1104,7 +1104,7 @@
             <mxPoint x="286" y="654.1379604997305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TBXFGYsQxH6lUz5zvuWN-21" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;故障恢复，水泵正常运行&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
+        <mxCell id="TBXFGYsQxH6lUz5zvuWN-21" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报通信故障，切换PWM通信模式&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
           <mxGeometry x="226.5" y="581" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-22" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
