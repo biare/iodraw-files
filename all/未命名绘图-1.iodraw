@@ -1103,7 +1103,7 @@
         <mxCell id="D40TBFkZNdP8wWFimr6F-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TBXFGYsQxH6lUz5zvuWN-1" source="TBXFGYsQxH6lUz5zvuWN-21" target="D40TBFkZNdP8wWFimr6F-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBXFGYsQxH6lUz5zvuWN-21" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;切换PWM通信模式&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
+        <mxCell id="TBXFGYsQxH6lUz5zvuWN-21" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;切换PWM通信&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
           <mxGeometry x="269" y="492.75" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="D40TBFkZNdP8wWFimr6F-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TBXFGYsQxH6lUz5zvuWN-1" source="D40TBFkZNdP8wWFimr6F-4" target="D40TBFkZNdP8wWFimr6F-12">
