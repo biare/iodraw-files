@@ -1033,7 +1033,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LIN通信" id="029iVQWxzJIgSHVxZvUS">
-    <mxGraphModel dx="868" dy="466" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-0" />
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-1" parent="TBXFGYsQxH6lUz5zvuWN-0" />
@@ -1056,7 +1056,14 @@
           <mxGeometry x="223.5" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TBXFGYsQxH6lUz5zvuWN-1" source="TBXFGYsQxH6lUz5zvuWN-11" target="TBXFGYsQxH6lUz5zvuWN-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="341" />
+              <mxPoint x="425" y="406" />
+              <mxPoint x="338" y="406" />
+              <mxPoint x="338" y="415" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="D40TBFkZNdP8wWFimr6F-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TBXFGYsQxH6lUz5zvuWN-1" source="TBXFGYsQxH6lUz5zvuWN-11" target="D40TBFkZNdP8wWFimr6F-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1101,7 +1108,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;等待是否超时&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
-          <mxGeometry x="358" y="391.75" width="133.5" height="90.5" as="geometry" />
+          <mxGeometry x="358" y="370" width="133.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-21" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报通信故障，切换PWM通信模式&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
           <mxGeometry x="267" y="581" width="119" height="47" as="geometry" />
@@ -1127,7 +1134,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D40TBFkZNdP8wWFimr6F-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报过温故障，水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
-          <mxGeometry x="76" y="413.5" width="119" height="47" as="geometry" />
+          <mxGeometry x="76" y="391.75" width="119" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="D40TBFkZNdP8wWFimr6F-7" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;等待是否超时&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
+          <mxGeometry x="68.75" y="471" width="133.5" height="90.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
