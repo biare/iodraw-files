@@ -1123,6 +1123,9 @@
             <mxPoint x="436" y="654" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="D40TBFkZNdP8wWFimr6F-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报过温故障，水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
+          <mxGeometry x="148" y="430" width="119" height="47" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
