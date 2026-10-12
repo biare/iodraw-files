@@ -1033,7 +1033,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LIN通信" id="029iVQWxzJIgSHVxZvUS">
-    <mxGraphModel dx="496" dy="266" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="200" dy="108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-0" />
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-1" parent="TBXFGYsQxH6lUz5zvuWN-0" />
@@ -1095,7 +1095,9 @@
             <mxPoint x="281" y="285" as="targetPoint" />
             <Array as="points">
               <mxPoint x="559" y="437" />
-              <mxPoint x="559" y="285" />
+              <mxPoint x="559" y="280" />
+              <mxPoint x="284" y="280" />
+              <mxPoint x="284" y="285" />
             </Array>
           </mxGeometry>
         </mxCell>
