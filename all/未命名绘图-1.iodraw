@@ -1058,7 +1058,7 @@
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TBXFGYsQxH6lUz5zvuWN-1" source="TBXFGYsQxH6lUz5zvuWN-11" target="TBXFGYsQxH6lUz5zvuWN-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBXFGYsQxH6lUz5zvuWN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TBXFGYsQxH6lUz5zvuWN-1" source="TBXFGYsQxH6lUz5zvuWN-11" target="TBXFGYsQxH6lUz5zvuWN-15">
+        <mxCell id="D40TBFkZNdP8wWFimr6F-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TBXFGYsQxH6lUz5zvuWN-1" source="TBXFGYsQxH6lUz5zvuWN-11" target="D40TBFkZNdP8wWFimr6F-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否接受到报文&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
@@ -1123,8 +1123,11 @@
             <mxPoint x="436" y="654" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="D40TBFkZNdP8wWFimr6F-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TBXFGYsQxH6lUz5zvuWN-1" source="D40TBFkZNdP8wWFimr6F-4" target="TBXFGYsQxH6lUz5zvuWN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D40TBFkZNdP8wWFimr6F-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报过温故障，水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
-          <mxGeometry x="148" y="430" width="119" height="47" as="geometry" />
+          <mxGeometry x="76" y="413.5" width="119" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
