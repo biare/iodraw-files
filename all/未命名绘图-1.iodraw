@@ -1090,6 +1090,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="D40TBFkZNdP8wWFimr6F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TBXFGYsQxH6lUz5zvuWN-1" source="TBXFGYsQxH6lUz5zvuWN-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="253" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;等待是否超时&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
           <mxGeometry x="358" y="391.75" width="133.5" height="90.5" as="geometry" />
         </mxCell>
