@@ -1081,11 +1081,16 @@
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-16" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;结束&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
           <mxGeometry x="376" y="687" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="D40TBFkZNdP8wWFimr6F-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TBXFGYsQxH6lUz5zvuWN-1" source="TBXFGYsQxH6lUz5zvuWN-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319.5999755859375" y="569.2000427246094" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;等待是否超时&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
           <mxGeometry x="358" y="391.75" width="133.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-21" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;报通信故障，切换PWM通信模式&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
-          <mxGeometry x="285" y="573" width="119" height="47" as="geometry" />
+          <mxGeometry x="267" y="581" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="TBXFGYsQxH6lUz5zvuWN-22" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="TBXFGYsQxH6lUz5zvuWN-1">
           <mxGeometry x="303.5" y="407" width="27" height="30" as="geometry" />
