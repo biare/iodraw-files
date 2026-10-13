@@ -852,7 +852,7 @@
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-16" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
           <mxGeometry x="257" y="431.5" width="27" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-17" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;尝试重启，仍有故障则2s后重启&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
+        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-17" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;尝试重启，仍有故障则10s后重启&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
           <mxGeometry x="377" y="661" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SFVlpsfZmdxD_k4xfzLk-1" source="-Q7QzMsk_WDaXJaVd5dN-20" target="-Q7QzMsk_WDaXJaVd5dN-25">
@@ -877,7 +877,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-22" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;尝试重启，仍有故障则2s后重启&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
+        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-22" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;尝试重启，仍有故障则60s后重启&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
           <mxGeometry x="522" y="661" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SFVlpsfZmdxD_k4xfzLk-1" source="-Q7QzMsk_WDaXJaVd5dN-25" target="-Q7QzMsk_WDaXJaVd5dN-27">
