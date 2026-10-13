@@ -1033,7 +1033,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="故障重启策略" id="zgFgFZWDFQTLFVYYReB1">
-    <mxGraphModel dx="868" dy="466" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="417" dy="224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Stfvkr1kworVoYD29byx-0" />
         <mxCell id="Stfvkr1kworVoYD29byx-1" parent="Stfvkr1kworVoYD29byx-0" />
@@ -1056,6 +1056,9 @@
           <mxGeometry x="223.5" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-11" target="Stfvkr1kworVoYD29byx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4JNm2LGnxfT-A3GEe1rd-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-11" target="Stfvkr1kworVoYD29byx-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否首次触发故障&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
