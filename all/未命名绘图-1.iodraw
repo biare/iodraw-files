@@ -1088,7 +1088,8 @@
         <mxCell id="Stfvkr1kworVoYD29byx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-19" target="Stfvkr1kworVoYD29byx-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="396" y="605" />
+              <mxPoint x="396" y="535" />
+              <mxPoint x="286" y="535" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1158,7 +1159,8 @@
         <mxCell id="Stfvkr1kworVoYD29byx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="708" y="437" />
+              <mxPoint x="652" y="437" />
+              <mxPoint x="652" y="485" />
             </Array>
             <mxPoint x="707.5" y="485" as="targetPoint" />
           </mxGeometry>
@@ -1178,7 +1180,7 @@
           <mxGeometry x="522" y="581" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="P6gCjUC6FZKYq_ZNC3rB-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第10次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="641" y="485" width="133.5" height="90.5" as="geometry" />
+          <mxGeometry x="588" y="474" width="133.5" height="90.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
