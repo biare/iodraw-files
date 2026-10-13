@@ -1069,25 +1069,25 @@
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135.5" y="654.3333028157552" as="targetPoint" />
+            <mxPoint x="135.5" y="734.3333028157552" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-15" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;重新检测，故障计数达到500后清除故障，否则2s后重启&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="76" y="581" width="119" height="47" as="geometry" />
+          <mxGeometry x="76" y="661" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-16" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;结束&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="376" y="687" width="120" height="30" as="geometry" />
+          <mxGeometry x="376" y="767" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第二次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="216.75" y="341" width="133.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="286" y="654.1379604997305" as="targetPoint" />
+            <mxPoint x="286" y="734.1379604997305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-21" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;重新检测，故障计数达到500后清除故障，否则5s后重启&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="226.5" y="581" width="119" height="47" as="geometry" />
+          <mxGeometry x="226.5" y="661" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-22" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="223.5" y="421" width="27" height="30" as="geometry" />
@@ -1096,12 +1096,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;重新检测，故障计数达到500后清除故障，否则20s后重启&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="377" y="581" width="119" height="47" as="geometry" />
+          <mxGeometry x="377" y="661" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="135" y="654" as="sourcePoint" />
-            <mxPoint x="436" y="654" as="targetPoint" />
+            <mxPoint x="135" y="734" as="sourcePoint" />
+            <mxPoint x="436" y="734" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-32" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第5次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
@@ -1110,13 +1110,13 @@
         <mxCell id="Stfvkr1kworVoYD29byx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-34" target="Stfvkr1kworVoYD29byx-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="582" y="654" />
-              <mxPoint x="436" y="654" />
+              <mxPoint x="582" y="734" />
+              <mxPoint x="436" y="734" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-34" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;重新检测，故障计数达到500后清除故障，否则60s后重启&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="522" y="581" width="119" height="47" as="geometry" />
+          <mxGeometry x="522" y="661" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="P6gCjUC6FZKYq_ZNC3rB-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第10次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="514.75" y="461" width="133.5" height="90.5" as="geometry" />
