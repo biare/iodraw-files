@@ -926,7 +926,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-38" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;永久停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
-          <mxGeometry x="672" y="659" width="139" height="47" as="geometry" />
+          <mxGeometry x="685.5" y="673" width="109.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SFVlpsfZmdxD_k4xfzLk-1" source="-Q7QzMsk_WDaXJaVd5dN-39" target="-Q7QzMsk_WDaXJaVd5dN-10">
           <mxGeometry relative="1" as="geometry">
