@@ -1439,7 +1439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PWM输出" id="fe8he4KV0QM7y4ng_v0f">
-    <mxGraphModel dx="719" dy="386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="266" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="m1Lw_Xzft8Xqs-xEAdsN-0" />
         <mxCell id="m1Lw_Xzft8Xqs-xEAdsN-1" parent="m1Lw_Xzft8Xqs-xEAdsN-0" />
@@ -1528,7 +1528,7 @@
           <mxGeometry x="262.25" y="561.75" width="27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dNgPB98a8S-_QuGF9sXH-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;按照优先级选择故障码&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="m1Lw_Xzft8Xqs-xEAdsN-1">
-          <mxGeometry x="305" y="431" width="119" height="47" as="geometry" />
+          <mxGeometry x="191" y="506.75" width="119" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
