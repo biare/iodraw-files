@@ -61,6 +61,73 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="twROd9UQdcsdK7c6HJna" name="硬件设计框图">
+    <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="450" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-1" target="BTGuQC6xsHXAk_xeOuWQ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-1" value="供电电源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-2" target="BTGuQC6xsHXAk_xeOuWQ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-2" target="BTGuQC6xsHXAk_xeOuWQ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-2" value="电源滤波与防护电路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="332" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-3" target="BTGuQC6xsHXAk_xeOuWQ-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="150" />
+              <mxPoint x="670" y="287" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-3" target="BTGuQC6xsHXAk_xeOuWQ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-3" value="MOSFET" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-5" target="BTGuQC6xsHXAk_xeOuWQ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-5" value="MCU外围电路" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="332" y="257" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-7" target="BTGuQC6xsHXAk_xeOuWQ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-7" value="采样电路" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="520" y="257" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-9" value="PMSM" style="ellipse;whiteSpace=wrap;rounded=1;html=1;fontFamily=宋体;fontSize=18;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="702" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-11" value="通信电路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="188" y="257" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-15" value="外部信号接口" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="40" y="257" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-15" target="BTGuQC6xsHXAk_xeOuWQ-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="202" as="sourcePoint" />
+            <mxPoint x="435" y="152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;dashed=1;fillStyle=hatch;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="173" y="81" width="515" height="268" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="水泵控制器设计总体框图">
     <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="450" background="none" math="0" shadow="0">
       <root>
@@ -148,73 +215,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="344" y="280" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="twROd9UQdcsdK7c6HJna" name="硬件设计框图">
-    <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="450" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-1" target="BTGuQC6xsHXAk_xeOuWQ-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-1" value="供电电源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-2" target="BTGuQC6xsHXAk_xeOuWQ-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-2" target="BTGuQC6xsHXAk_xeOuWQ-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-2" value="电源滤波与防护电路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="332" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-3" target="BTGuQC6xsHXAk_xeOuWQ-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="670" y="150" />
-              <mxPoint x="670" y="287" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-3" target="BTGuQC6xsHXAk_xeOuWQ-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-3" value="MOSFET" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-5" target="BTGuQC6xsHXAk_xeOuWQ-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-5" value="MCU外围电路" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="332" y="257" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-7" target="BTGuQC6xsHXAk_xeOuWQ-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-7" value="采样电路" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="520" y="257" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-9" value="PMSM" style="ellipse;whiteSpace=wrap;rounded=1;html=1;fontFamily=宋体;fontSize=18;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="702" y="110" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-11" value="通信电路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="188" y="257" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-15" value="外部信号接口" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="40" y="257" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BTGuQC6xsHXAk_xeOuWQ-15" target="BTGuQC6xsHXAk_xeOuWQ-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="385" y="202" as="sourcePoint" />
-            <mxPoint x="435" y="152" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BTGuQC6xsHXAk_xeOuWQ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;dashed=1;fillStyle=hatch;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="173" y="81" width="515" height="268" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
