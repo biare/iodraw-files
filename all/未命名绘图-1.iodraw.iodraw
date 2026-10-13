@@ -796,7 +796,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SFVlpsfZmdxD_k4xfzLk-1" source="-Q7QzMsk_WDaXJaVd5dN-5" target="-Q7QzMsk_WDaXJaVd5dN-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="126" y="466" />
+              <mxPoint x="126" y="466" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SFVlpsfZmdxD_k4xfzLk-1" source="-Q7QzMsk_WDaXJaVd5dN-5" target="-Q7QzMsk_WDaXJaVd5dN-13">
           <mxGeometry relative="1" as="geometry">
@@ -824,7 +829,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-9" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;故障计数到200清除故障标志位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
-          <mxGeometry x="66" y="661" width="139" height="47" as="geometry" />
+          <mxGeometry x="56" y="661" width="139" height="47" as="geometry" />
         </mxCell>
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-10" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;结束&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
           <mxGeometry x="376" y="767" width="120" height="30" as="geometry" />
