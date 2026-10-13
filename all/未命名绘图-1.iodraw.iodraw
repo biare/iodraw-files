@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17" pages="15">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17" pages="14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="水泵控制器设计总体框图">
     <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="450" background="none" math="0" shadow="0">
       <root>
@@ -1644,79 +1644,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNgPB98a8S-_QuGF9sXH-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;按照优先级选择故障码&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="m1Lw_Xzft8Xqs-xEAdsN-1">
-          <mxGeometry x="198.75" y="442" width="119" height="47" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="PWM输出 的副本" id="0_1TjBqVp3UsHDzq39As">
-    <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-0" />
-        <mxCell id="m9vGrihhwrX6EvLunwbg-1" parent="m9vGrihhwrX6EvLunwbg-0" />
-        <mxCell id="m9vGrihhwrX6EvLunwbg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="m9vGrihhwrX6EvLunwbg-1" source="m9vGrihhwrX6EvLunwbg-3" target="m9vGrihhwrX6EvLunwbg-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="m9vGrihhwrX6EvLunwbg-1">
-          <mxGeometry x="348.75" y="150" width="114" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="m9vGrihhwrX6EvLunwbg-1" source="m9vGrihhwrX6EvLunwbg-5" target="m9vGrihhwrX6EvLunwbg-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-5" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;PWM初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="m9vGrihhwrX6EvLunwbg-1">
-          <mxGeometry x="345.75" y="204" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="m9vGrihhwrX6EvLunwbg-1" source="m9vGrihhwrX6EvLunwbg-7" target="m9vGrihhwrX6EvLunwbg-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-7" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;读取故障标志&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="m9vGrihhwrX6EvLunwbg-1">
-          <mxGeometry x="345.75" y="254" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="m9vGrihhwrX6EvLunwbg-1" source="m9vGrihhwrX6EvLunwbg-10" target="m9vGrihhwrX6EvLunwbg-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250.51724137931035" y="498.7581363812477" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="m9vGrihhwrX6EvLunwbg-1" source="m9vGrihhwrX6EvLunwbg-10" target="m9vGrihhwrX6EvLunwbg-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="547" y="397.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-10" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否存在需要上报的故障&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="m9vGrihhwrX6EvLunwbg-1">
-          <mxGeometry x="350.87" y="310" width="109.75" height="90.5" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-11" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;否&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;shadow=0;size=0;pointerEvents=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="m9vGrihhwrX6EvLunwbg-1">
-          <mxGeometry x="519.75" y="326" width="27" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-12" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;shadow=0;size=0;pointerEvents=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="m9vGrihhwrX6EvLunwbg-1">
-          <mxGeometry x="264.75" y="324" width="27" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="m9vGrihhwrX6EvLunwbg-1" source="m9vGrihhwrX6EvLunwbg-14" target="m9vGrihhwrX6EvLunwbg-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-14" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;根据故障码进行电平翻转&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="m9vGrihhwrX6EvLunwbg-1">
-          <mxGeometry x="198.75" y="531.25" width="119" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-15" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;结束&lt;/span&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="m9vGrihhwrX6EvLunwbg-1">
-          <mxGeometry x="345.74" y="626.25" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="m9vGrihhwrX6EvLunwbg-1" source="m9vGrihhwrX6EvLunwbg-17" target="m9vGrihhwrX6EvLunwbg-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="553" y="555" />
-              <mxPoint x="406" y="555" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-17" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;正常PWM反馈&lt;/span&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="m9vGrihhwrX6EvLunwbg-1">
-          <mxGeometry x="493.75" y="442" width="119" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="m9vGrihhwrX6EvLunwbg-1" source="m9vGrihhwrX6EvLunwbg-19" target="m9vGrihhwrX6EvLunwbg-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="258.26724137931035" y="496.9918636187523" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m9vGrihhwrX6EvLunwbg-19" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;按照优先级选择故障码&lt;/span&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="m9vGrihhwrX6EvLunwbg-1">
           <mxGeometry x="198.75" y="442" width="119" height="47" as="geometry" />
         </mxCell>
       </root>
