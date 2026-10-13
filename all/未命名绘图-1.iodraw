@@ -1156,6 +1156,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="P6gCjUC6FZKYq_ZNC3rB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-32" target="P6gCjUC6FZKYq_ZNC3rB-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="614" y="466" />
+              <mxPoint x="614" y="454" />
+              <mxPoint x="655" y="454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-32" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第5次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="460" y="421" width="133.5" height="90.5" as="geometry" />
         </mxCell>
