@@ -1110,7 +1110,7 @@
           <mxGeometry x="223.5" y="661" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-22" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="223.5" y="421" width="27" height="30" as="geometry" />
+          <mxGeometry x="257" y="431.5" width="27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;重新检测，故障计数达到500后清除故障，否则20s后重启&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="377" y="661" width="119" height="47" as="geometry" />
@@ -1170,6 +1170,12 @@
         </mxCell>
         <mxCell id="P6gCjUC6FZKYq_ZNC3rB-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="665.5" y="661" width="119" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="4JNm2LGnxfT-A3GEe1rd-10" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
+          <mxGeometry x="410" y="497.5" width="27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4JNm2LGnxfT-A3GEe1rd-11" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
+          <mxGeometry x="420" y="507.5" width="27" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
