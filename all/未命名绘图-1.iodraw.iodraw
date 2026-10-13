@@ -780,7 +780,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="故障重启策略" id="oN9uyH5q1zzrwtDl1gQR">
-    <mxGraphModel dx="719" dy="386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SFVlpsfZmdxD_k4xfzLk-0" />
         <mxCell id="SFVlpsfZmdxD_k4xfzLk-1" parent="SFVlpsfZmdxD_k4xfzLk-0" />
@@ -914,7 +914,7 @@
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-36" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;检测到空转/堵转故障&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
           <mxGeometry x="224" y="218" width="119" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-37" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;故障计数到200清除故障标志位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
+        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-37" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;故障计数到500清除故障标志位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
           <mxGeometry x="211.25" y="661" width="139" height="47" as="geometry" />
         </mxCell>
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SFVlpsfZmdxD_k4xfzLk-1" source="-Q7QzMsk_WDaXJaVd5dN-38" target="-Q7QzMsk_WDaXJaVd5dN-10">
