@@ -49,7 +49,7 @@
         <mxCell id="HZ-gBlv0p8Y4kImufU3K-13" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;PMSM&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="hyXBEU70i-jLA7qv29Si-1">
           <mxGeometry x="692" y="473" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-gBlv0p8Y4kImufU3K-15" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;输入滤波及防护电路&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="hyXBEU70i-jLA7qv29Si-1">
+        <mxCell id="HZ-gBlv0p8Y4kImufU3K-15" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;TLE9877&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;QXA4O&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="hyXBEU70i-jLA7qv29Si-1">
           <mxGeometry x="184" y="620.5" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
