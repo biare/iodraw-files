@@ -1112,8 +1112,11 @@
         <mxCell id="Stfvkr1kworVoYD29byx-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;重新检测，故障计数达到500后清除故障，否则20s后重启&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="377" y="661" width="119" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="4JNm2LGnxfT-A3GEe1rd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-32" target="P6gCjUC6FZKYq_ZNC3rB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-32" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第5次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="372" y="414" width="133.5" height="90.5" as="geometry" />
+          <mxGeometry x="369.25" y="407" width="133.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="P6gCjUC6FZKYq_ZNC3rB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-34" target="Stfvkr1kworVoYD29byx-16">
           <mxGeometry relative="1" as="geometry">
