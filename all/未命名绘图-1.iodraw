@@ -1119,7 +1119,7 @@
           <mxGeometry x="522" y="661" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="P6gCjUC6FZKYq_ZNC3rB-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第10次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="514.75" y="461" width="133.5" height="90.5" as="geometry" />
+          <mxGeometry x="514.75" y="494" width="133.5" height="90.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
