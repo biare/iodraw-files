@@ -1098,9 +1098,6 @@
         <mxCell id="Stfvkr1kworVoYD29byx-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;重新检测，故障计数达到500后清除故障，否则20s后重启&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="377" y="581" width="119" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="Stfvkr1kworVoYD29byx-28" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="558" y="474" width="27" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="135" y="654" as="sourcePoint" />
@@ -1108,7 +1105,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-32" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第5次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="367" y="413.5" width="133.5" height="90.5" as="geometry" />
+          <mxGeometry x="369.25" y="408" width="133.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-34" target="Stfvkr1kworVoYD29byx-16">
           <mxGeometry relative="1" as="geometry">
@@ -1122,7 +1119,7 @@
           <mxGeometry x="522" y="581" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="P6gCjUC6FZKYq_ZNC3rB-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第10次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="588" y="474" width="133.5" height="90.5" as="geometry" />
+          <mxGeometry x="614" y="474" width="133.5" height="90.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
