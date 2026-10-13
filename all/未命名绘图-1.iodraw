@@ -1088,12 +1088,17 @@
         <mxCell id="Stfvkr1kworVoYD29byx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-19" target="Stfvkr1kworVoYD29byx-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="284" y="401" />
+              <mxPoint x="396" y="605" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P6gCjUC6FZKYq_ZNC3rB-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-19" target="Stfvkr1kworVoYD29byx-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="483" y="400" />
+              <mxPoint x="527" y="401" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第二次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="329" y="355" width="133.5" height="90.5" as="geometry" />
@@ -1145,7 +1150,7 @@
         <mxCell id="Stfvkr1kworVoYD29byx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-32" target="Stfvkr1kworVoYD29byx-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="593" y="537" />
+              <mxPoint x="527" y="537" />
               <mxPoint x="437" y="537" />
             </Array>
           </mxGeometry>
