@@ -1541,6 +1541,9 @@
         <mxCell id="AeXrS-O_CBD0O-tXW92g-27" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="AeXrS-O_CBD0O-tXW92g-1">
           <mxGeometry x="262.25" y="561.75" width="27" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GTWhY4S76N9Q6ObKiqgi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AeXrS-O_CBD0O-tXW92g-1" source="GTWhY4S76N9Q6ObKiqgi-0" target="AeXrS-O_CBD0O-tXW92g-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GTWhY4S76N9Q6ObKiqgi-0" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;计算输入频率和占空比&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="AeXrS-O_CBD0O-tXW92g-1">
           <mxGeometry x="198.25" y="405.75" width="119" height="47" as="geometry" />
         </mxCell>
