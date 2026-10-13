@@ -1096,7 +1096,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第二次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="359" y="356" width="133.5" height="90.5" as="geometry" />
+          <mxGeometry x="329" y="355" width="133.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-21">
           <mxGeometry relative="1" as="geometry">
@@ -1107,7 +1107,7 @@
           <mxGeometry x="226.5" y="581" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-22" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
-          <mxGeometry x="303.5" y="407" width="27" height="30" as="geometry" />
+          <mxGeometry x="223.5" y="421" width="27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry relative="1" as="geometry">
