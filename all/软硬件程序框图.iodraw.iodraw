@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="twROd9UQdcsdK7c6HJna" name="硬件设计框图">
-    <mxGraphModel dx="719" dy="386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="450" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="466" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="450" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,6 +127,9 @@
         </mxCell>
         <mxCell id="cHSx7UoF8Q53AU-8q5w--1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;VSUP&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="471" y="120" width="27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cHSx7UoF8Q53AU-8q5w--2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;VSUP&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="397" y="204" width="27" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
