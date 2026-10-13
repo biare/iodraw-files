@@ -1439,7 +1439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PWM输出" id="fe8he4KV0QM7y4ng_v0f">
-    <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="266" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="m1Lw_Xzft8Xqs-xEAdsN-0" />
         <mxCell id="m1Lw_Xzft8Xqs-xEAdsN-1" parent="m1Lw_Xzft8Xqs-xEAdsN-0" />
@@ -1482,7 +1482,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="358.5" y="701" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="258" y="671" />
+              <mxPoint x="254" y="671" />
               <mxPoint x="359" y="671" />
             </Array>
           </mxGeometry>
