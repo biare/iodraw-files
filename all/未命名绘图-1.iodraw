@@ -1033,7 +1033,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="故障重启策略" id="zgFgFZWDFQTLFVYYReB1">
-    <mxGraphModel dx="417" dy="224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="466" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Stfvkr1kworVoYD29byx-0" />
         <mxCell id="Stfvkr1kworVoYD29byx-1" parent="Stfvkr1kworVoYD29byx-0" />
@@ -1059,7 +1059,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4JNm2LGnxfT-A3GEe1rd-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-11" target="Stfvkr1kworVoYD29byx-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="325" />
+              <mxPoint x="284" y="326" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否首次触发故障&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="80.63" y="279.75" width="109.75" height="90.5" as="geometry" />
@@ -1083,6 +1088,9 @@
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-16" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;结束&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="376" y="767" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4JNm2LGnxfT-A3GEe1rd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="Stfvkr1kworVoYD29byx-19" target="Stfvkr1kworVoYD29byx-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Stfvkr1kworVoYD29byx-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第二次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="216.75" y="341" width="133.5" height="90.5" as="geometry" />
