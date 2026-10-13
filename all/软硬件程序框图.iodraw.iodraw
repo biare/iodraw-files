@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17" pages="15">
   <diagram name="硬件流程图" id="_v9rkYsm8yCIoDsuzR5Y">
-    <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hyXBEU70i-jLA7qv29Si-0" />
         <mxCell id="hyXBEU70i-jLA7qv29Si-1" parent="hyXBEU70i-jLA7qv29Si-0" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HZ-gBlv0p8Y4kImufU3K-7" value="&lt;font face=&quot;宋体&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;整车指令&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#330000;fontColor=#FFFFFF;fillColor=none;" vertex="1" parent="hyXBEU70i-jLA7qv29Si-1">
-          <mxGeometry x="359.5" y="740.5" width="97" height="52" as="geometry" />
+          <mxGeometry x="37.5" y="739" width="97" height="52" as="geometry" />
         </mxCell>
         <mxCell id="HZ-gBlv0p8Y4kImufU3K-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="hyXBEU70i-jLA7qv29Si-1" source="HZ-gBlv0p8Y4kImufU3K-8" target="HZ-gBlv0p8Y4kImufU3K-15">
           <mxGeometry relative="1" as="geometry" />
