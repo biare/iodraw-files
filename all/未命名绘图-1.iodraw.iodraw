@@ -823,8 +823,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-9" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;2s后重启&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
-          <mxGeometry x="76" y="661" width="119" height="47" as="geometry" />
+        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-9" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;故障计数到200清除故障标志位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
+          <mxGeometry x="66" y="661" width="139" height="47" as="geometry" />
         </mxCell>
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-10" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;结束&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
           <mxGeometry x="376" y="767" width="120" height="30" as="geometry" />
