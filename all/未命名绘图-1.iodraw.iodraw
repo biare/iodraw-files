@@ -934,6 +934,15 @@
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-37" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;故障计数到200清除故障标志位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
           <mxGeometry x="211.25" y="661" width="139" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-38" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;故障计数到200清除故障标志位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
+          <mxGeometry x="86" y="681" width="139" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-39" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;故障计数到200清除故障标志位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
+          <mxGeometry x="514.75" y="661" width="139" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-40" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;故障计数到200清除故障标志位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="SFVlpsfZmdxD_k4xfzLk-1">
+          <mxGeometry x="363.75" y="661" width="139" height="47" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
