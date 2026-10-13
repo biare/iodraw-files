@@ -59,7 +59,7 @@
           <mxGeometry x="335.5" y="574" width="27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xn_aI3XoV_mC7dve1Eak-0" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;dashed=1;fillStyle=hatch;fillColor=none;" vertex="1" parent="hyXBEU70i-jLA7qv29Si-1">
-          <mxGeometry x="230" y="471" width="401" height="346" as="geometry" />
+          <mxGeometry x="237" y="471" width="394" height="346" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -237,112 +237,112 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="114" y="97" width="82" height="43" as="geometry" />
+          <mxGeometry x="173" y="98" width="82" height="43" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UOOnUV--T7-roycU_YFL-4" target="UOOnUV--T7-roycU_YFL-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;芯片复位&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="95" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="154" y="161" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UOOnUV--T7-roycU_YFL-6" target="UOOnUV--T7-roycU_YFL-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-6" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;系统时钟初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="77" y="210" width="156" height="30" as="geometry" />
+          <mxGeometry x="136" y="211" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UOOnUV--T7-roycU_YFL-8" target="UOOnUV--T7-roycU_YFL-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-8" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;看门狗初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="260" width="120" height="30" as="geometry" />
+          <mxGeometry x="154" y="261" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UOOnUV--T7-roycU_YFL-10" target="UOOnUV--T7-roycU_YFL-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-10" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;GPIO初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="310" width="120" height="30" as="geometry" />
+          <mxGeometry x="154" y="311" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UOOnUV--T7-roycU_YFL-12" target="UOOnUV--T7-roycU_YFL-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-12" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;定时器初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="360" width="120" height="30" as="geometry" />
+          <mxGeometry x="154" y="361" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UOOnUV--T7-roycU_YFL-14" target="UOOnUV--T7-roycU_YFL-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-14" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;LIN初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="410" width="120" height="30" as="geometry" />
+          <mxGeometry x="154" y="411" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UOOnUV--T7-roycU_YFL-16" target="UOOnUV--T7-roycU_YFL-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-16" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;故障诊断初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="77" y="460" width="156" height="30" as="geometry" />
+          <mxGeometry x="136" y="461" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UOOnUV--T7-roycU_YFL-18" target="UOOnUV--T7-roycU_YFL-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-18" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;ADC初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="510" width="120" height="30" as="geometry" />
+          <mxGeometry x="154" y="511" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UOOnUV--T7-roycU_YFL-20" target="UOOnUV--T7-roycU_YFL-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="248" y="575" />
-              <mxPoint x="248" y="175" />
+              <mxPoint x="307" y="576" />
+              <mxPoint x="307" y="176" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-20" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;While（1）&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="560" width="120" height="30" as="geometry" />
+          <mxGeometry x="154" y="561" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UOOnUV--T7-roycU_YFL-29" target="UOOnUV--T7-roycU_YFL-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-29" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;看门狗喂狗&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="387" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="446" y="161" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UOOnUV--T7-roycU_YFL-31" target="UOOnUV--T7-roycU_YFL-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UOOnUV--T7-roycU_YFL-31" target="UOOnUV--T7-roycU_YFL-36" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="378" y="384" as="sourcePoint" />
+            <mxPoint x="437" y="385" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-31" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;4s定时器&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="381" y="252" width="132" height="80" as="geometry" />
+          <mxGeometry x="440" y="253" width="132" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UOOnUV--T7-roycU_YFL-35" target="UOOnUV--T7-roycU_YFL-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-35" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;LIN通信&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="513" y="370" width="120" height="30" as="geometry" />
+          <mxGeometry x="572" y="371" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UOOnUV--T7-roycU_YFL-36" target="UOOnUV--T7-roycU_YFL-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-36" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;PWM通信&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="261" y="370" width="120" height="30" as="geometry" />
+          <mxGeometry x="320" y="371" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UOOnUV--T7-roycU_YFL-46" target="UOOnUV--T7-roycU_YFL-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-46" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;故障诊断&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="387" y="426" width="120" height="30" as="geometry" />
+          <mxGeometry x="446" y="427" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="UOOnUV--T7-roycU_YFL-51" target="UOOnUV--T7-roycU_YFL-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="447" y="610" />
-              <mxPoint x="155" y="610" />
+              <mxPoint x="506" y="611" />
+              <mxPoint x="214" y="611" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UOOnUV--T7-roycU_YFL-51" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;电机控制&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="387" y="480" width="120" height="30" as="geometry" />
+          <mxGeometry x="446" y="481" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
