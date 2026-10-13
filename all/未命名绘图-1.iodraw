@@ -1033,7 +1033,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="故障重启策略" id="zgFgFZWDFQTLFVYYReB1">
-    <mxGraphModel dx="417" dy="224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="266" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Stfvkr1kworVoYD29byx-0" />
         <mxCell id="Stfvkr1kworVoYD29byx-1" parent="Stfvkr1kworVoYD29byx-0" />
@@ -1128,8 +1128,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="437.199951171875" y="765.9999694824219" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="725" y="733" />
-              <mxPoint x="437" y="733" />
+              <mxPoint x="725" y="736" />
+              <mxPoint x="437" y="736" />
             </Array>
           </mxGeometry>
         </mxCell>
