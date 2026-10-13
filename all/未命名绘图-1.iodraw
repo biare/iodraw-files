@@ -1148,13 +1148,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4JNm2LGnxfT-A3GEe1rd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="P6gCjUC6FZKYq_ZNC3rB-1" target="Stfvkr1kworVoYD29byx-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P6gCjUC6FZKYq_ZNC3rB-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第10次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="514.75" y="470" width="133.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="4JNm2LGnxfT-A3GEe1rd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="P6gCjUC6FZKYq_ZNC3rB-3" target="P6gCjUC6FZKYq_ZNC3rB-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P6gCjUC6FZKYq_ZNC3rB-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否第10次发生&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
+        <mxCell id="P6gCjUC6FZKYq_ZNC3rB-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;故障发生超过&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;20次&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="658.25" y="531" width="133.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="P6gCjUC6FZKYq_ZNC3rB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Stfvkr1kworVoYD29byx-1" source="P6gCjUC6FZKYq_ZNC3rB-4" target="Stfvkr1kworVoYD29byx-16">
