@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17" pages="15">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17" pages="14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="水泵控制器设计总体框图">
     <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="450" background="none" math="0" shadow="0">
       <root>
@@ -1490,7 +1490,12 @@
           <mxGeometry x="345.74" y="626.25" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dNgPB98a8S-_QuGF9sXH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="m1Lw_Xzft8Xqs-xEAdsN-1" source="m1Lw_Xzft8Xqs-xEAdsN-20" target="m1Lw_Xzft8Xqs-xEAdsN-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="553" y="555" />
+              <mxPoint x="406" y="555" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="m1Lw_Xzft8Xqs-xEAdsN-20" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;正常PWM反馈&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="m1Lw_Xzft8Xqs-xEAdsN-1" vertex="1">
           <mxGeometry x="493.75" y="442" width="119" height="47" as="geometry" />
@@ -1502,132 +1507,6 @@
         </mxCell>
         <mxCell id="dNgPB98a8S-_QuGF9sXH-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;按照优先级选择故障码&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="m1Lw_Xzft8Xqs-xEAdsN-1">
           <mxGeometry x="198.75" y="442" width="119" height="47" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="U6Rpkpj1PqutEdVlzbzb" name="PWM通信副本">
-    <mxGraphModel dx="1042" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-1" target="_VzSlJNoDiDSXm1ZXoVv-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="119" y="43" width="111" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-6" target="_VzSlJNoDiDSXm1ZXoVv-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-6" target="_VzSlJNoDiDSXm1ZXoVv-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-6" value="是否捕获到PWM信号" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="86.75" y="148" width="175" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-7" target="_VzSlJNoDiDSXm1ZXoVv-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-7" value="计算PWM频率是否在有效范围" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="114.5" y="230" width="120" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-9" target="_VzSlJNoDiDSXm1ZXoVv-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-9" value="PWM捕获超时" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="449" y="230" width="120" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-10" target="_VzSlJNoDiDSXm1ZXoVv-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-10" value="捕获当前电压" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="449" y="281" width="120" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-13" target="_VzSlJNoDiDSXm1ZXoVv-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-13" target="_VzSlJNoDiDSXm1ZXoVv-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="268" y="358" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-13" value="PWM是否在有效范围" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="111" y="328" width="126.5" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-14" target="_VzSlJNoDiDSXm1ZXoVv-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-14" target="_VzSlJNoDiDSXm1ZXoVv-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="614" y="353" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-14" value="判断电压" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="442.5" y="328" width="133" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-18" target="_VzSlJNoDiDSXm1ZXoVv-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="83" y="538" />
-              <mxPoint x="370" y="538" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-18" value="根据转速曲线计算转速" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="22" y="420" width="120" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-19" value="水泵全速运转" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="208" y="420" width="120" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-20" value="水泵全速运转" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="358" y="420" width="121" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-21" value="水泵停机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="558" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-25" value="将计算得到的转速传递给目标转速" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="597" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_VzSlJNoDiDSXm1ZXoVv-19" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="269" y="538" as="sourcePoint" />
-            <mxPoint x="212" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-34" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="369" y="538" as="sourcePoint" />
-            <mxPoint x="669" y="538" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_VzSlJNoDiDSXm1ZXoVv-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="538" as="sourcePoint" />
-            <mxPoint x="416" y="515" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="534" as="sourcePoint" />
-            <mxPoint x="620" y="508" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_VzSlJNoDiDSXm1ZXoVv-37" target="_VzSlJNoDiDSXm1ZXoVv-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_VzSlJNoDiDSXm1ZXoVv-37" value="PWM捕获初始化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="116.25" y="95" width="116.5" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="_dR72NKiiLGOVRtfdc4J-1" value="是" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="177" y="202" width="27" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_dR72NKiiLGOVRtfdc4J-2" value="否" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="261.75" y="148" width="27" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
