@@ -1180,6 +1180,12 @@
         <mxCell id="4JNm2LGnxfT-A3GEe1rd-12" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
           <mxGeometry x="698" y="621.5" width="27" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4JNm2LGnxfT-A3GEe1rd-13" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;否&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
+          <mxGeometry x="350.25" y="355" width="27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4JNm2LGnxfT-A3GEe1rd-14" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;否&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="Stfvkr1kworVoYD29byx-1">
+          <mxGeometry x="502.75" y="421" width="27" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
