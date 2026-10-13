@@ -780,7 +780,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="故障重启策略" id="oN9uyH5q1zzrwtDl1gQR">
-    <mxGraphModel dx="1489" dy="799" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SFVlpsfZmdxD_k4xfzLk-0" />
         <mxCell id="SFVlpsfZmdxD_k4xfzLk-1" parent="SFVlpsfZmdxD_k4xfzLk-0" />
