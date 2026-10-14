@@ -1151,7 +1151,7 @@
         <mxCell id="-Q7QzMsk_WDaXJaVd5dN-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="SFVlpsfZmdxD_k4xfzLk-1" source="-Q7QzMsk_WDaXJaVd5dN-40" target="-Q7QzMsk_WDaXJaVd5dN-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-40" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;故障计数到1000清除故障标志位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="SFVlpsfZmdxD_k4xfzLk-1" vertex="1">
+        <mxCell id="-Q7QzMsk_WDaXJaVd5dN-40" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;故障计数到2000清除故障标志位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="SFVlpsfZmdxD_k4xfzLk-1" vertex="1">
           <mxGeometry x="366.5" y="661" width="139" height="47" as="geometry" />
         </mxCell>
       </root>
