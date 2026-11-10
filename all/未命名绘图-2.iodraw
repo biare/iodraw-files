@@ -644,7 +644,7 @@
             <mxPoint x="344" y="382" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJU6Qi3ZKTZ4z-eOjcLv-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转速是否&amp;lt;500rpm&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;且电机母线电流大于15A&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="LJU6Qi3ZKTZ4z-eOjcLv-1" vertex="1">
+        <mxCell id="LJU6Qi3ZKTZ4z-eOjcLv-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转速是否&amp;lt;1200rpm&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;且电机相电流大于15A&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="LJU6Qi3ZKTZ4z-eOjcLv-1" vertex="1">
           <mxGeometry x="315.75" y="277.25" width="190.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="LJU6Qi3ZKTZ4z-eOjcLv-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LJU6Qi3ZKTZ4z-eOjcLv-1" source="LJU6Qi3ZKTZ4z-eOjcLv-13" target="LJU6Qi3ZKTZ4z-eOjcLv-18" edge="1">
