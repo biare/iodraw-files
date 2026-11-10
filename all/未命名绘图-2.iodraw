@@ -627,7 +627,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzkiHc2Fwkvj0T1dCbyA-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转速是否&amp;lt;1200rpm&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;且电机相电流大于15A&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PzkiHc2Fwkvj0T1dCbyA-1">
+        <mxCell id="PzkiHc2Fwkvj0T1dCbyA-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;转速是否&amp;lt;1200rpm&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;且电机相电流&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; font-family: 宋体; background-color: initial;&quot;&gt;大于&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;15A&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PzkiHc2Fwkvj0T1dCbyA-1">
           <mxGeometry x="315.75" y="332.25" width="190.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="PzkiHc2Fwkvj0T1dCbyA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PzkiHc2Fwkvj0T1dCbyA-1" source="PzkiHc2Fwkvj0T1dCbyA-14" target="PzkiHc2Fwkvj0T1dCbyA-19">
