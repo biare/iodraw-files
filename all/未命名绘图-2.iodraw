@@ -582,7 +582,10 @@
           <mxGeometry x="286" y="629" width="84" height="29" as="geometry" />
         </mxCell>
         <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-1" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;第三次检出故障报故障位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
-          <mxGeometry y="726" width="119" height="47" as="geometry" />
+          <mxGeometry x="227" y="758" width="119" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;清除故障信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
+          <mxGeometry x="492.5" y="690" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
