@@ -518,7 +518,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-20" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="7wiciUh_t-ydqMchjlou-1" vertex="1">
-          <mxGeometry x="227" y="895" width="120" height="30" as="geometry" />
+          <mxGeometry x="228" y="894" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a2HXFGyftlf_Z9eGpPnJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="xI6xW0vJt-_CfhlOD00Y-14" target="xI6xW0vJt-_CfhlOD00Y-49">
           <mxGeometry relative="1" as="geometry" />
@@ -566,6 +566,9 @@
         </mxCell>
         <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="227" y="578" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="N9vncEg9yT4Jz1Ys0ZhG-16" target="xI6xW0vJt-_CfhlOD00Y-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-16" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;第二十次检出故障报故障位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="228" y="818" width="119" height="47" as="geometry" />
