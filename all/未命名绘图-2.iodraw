@@ -496,6 +496,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="xI6xW0vJt-_CfhlOD00Y-6" target="N9vncEg9yT4Jz1Ys0ZhG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;计数器大于375&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="7wiciUh_t-ydqMchjlou-1" vertex="1">
           <mxGeometry x="207.5" y="484" width="159" height="80" as="geometry" />
         </mxCell>
@@ -575,13 +578,13 @@
           <mxGeometry x="308" y="797" width="27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-0" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;尝试重启&lt;/span&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
-          <mxGeometry x="286" y="629" width="84" height="29" as="geometry" />
+          <mxGeometry x="295" y="626" width="84" height="29" as="geometry" />
         </mxCell>
         <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-1" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;第三次检出故障报故障位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="227" y="758" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
-          <mxGeometry x="231" y="603" width="120" height="30" as="geometry" />
+          <mxGeometry x="226.5" y="585" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
