@@ -502,16 +502,6 @@
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;计数器大于375&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="7wiciUh_t-ydqMchjlou-1" vertex="1">
           <mxGeometry x="207.5" y="484" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xI6xW0vJt-_CfhlOD00Y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="7wiciUh_t-ydqMchjlou-1" target="xI6xW0vJt-_CfhlOD00Y-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="287.5" y="631.0000000000002" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xI6xW0vJt-_CfhlOD00Y-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="7wiciUh_t-ydqMchjlou-1" source="xI6xW0vJt-_CfhlOD00Y-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="287" y="764" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="7wiciUh_t-ydqMchjlou-1" source="xI6xW0vJt-_CfhlOD00Y-9" target="xI6xW0vJt-_CfhlOD00Y-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -533,6 +523,11 @@
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="7wiciUh_t-ydqMchjlou-1" source="xI6xW0vJt-_CfhlOD00Y-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="424" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="xI6xW0vJt-_CfhlOD00Y-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="286.5000000000002" y="805" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xI6xW0vJt-_CfhlOD00Y-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;重启二十次后仍检测出故障&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="7wiciUh_t-ydqMchjlou-1" vertex="1">
@@ -580,8 +575,13 @@
         <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-0" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;尝试重启&lt;/span&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=none;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=0;size=0;pointerEvents=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="295" y="626" width="84" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-1" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;第三次检出故障报故障位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
-          <mxGeometry x="227" y="758" width="119" height="47" as="geometry" />
+        <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" target="xI6xW0vJt-_CfhlOD00Y-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="286.5000000000002" y="805" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="N9vncEg9yT4Jz1Ys0ZhG-2" target="xI6xW0vJt-_CfhlOD00Y-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;水泵停机&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="226.5" y="585" width="120" height="30" as="geometry" />
