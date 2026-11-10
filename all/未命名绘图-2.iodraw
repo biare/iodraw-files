@@ -427,7 +427,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="空转故障" id="LG9MseDocXm5V-5ZliAi">
-    <mxGraphModel dx="1226" dy="658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="466" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7wiciUh_t-ydqMchjlou-0" />
         <mxCell id="7wiciUh_t-ydqMchjlou-1" parent="7wiciUh_t-ydqMchjlou-0" />
@@ -570,7 +570,7 @@
         <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="N9vncEg9yT4Jz1Ys0ZhG-16" target="xI6xW0vJt-_CfhlOD00Y-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-16" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;第二十次检出故障报故障位&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
+        <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-16" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;第二十次检出故障&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7wiciUh_t-ydqMchjlou-1">
           <mxGeometry x="228" y="897" width="119" height="47" as="geometry" />
         </mxCell>
         <mxCell id="N9vncEg9yT4Jz1Ys0ZhG-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7wiciUh_t-ydqMchjlou-1" source="N9vncEg9yT4Jz1Ys0ZhG-19" target="N9vncEg9yT4Jz1Ys0ZhG-16">
